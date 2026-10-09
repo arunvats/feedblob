@@ -1,0 +1,7 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,
+## RECSBooks catalog: 20 famous books across US, UK, and India. entity.custom1 = genre, entity.custom2 = region, entity.custom3 = author.,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10
+book-019,Six Point Someone,cat-fiction,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/book-019.jpg,10.99,https://example.com/books/book-019,100,,Fiction,India,Chetan Bhagat,,,,,,,
+,Shantaram,cat-fiction,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/book-020.jpg,17.99,https://example.com/books/book-020,100,,Fiction,India,Gregory David Roberts,,,,,,,
