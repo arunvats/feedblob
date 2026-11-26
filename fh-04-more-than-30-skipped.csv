@@ -1,0 +1,85 @@
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSFeed Health test feed. entity.custom1 = genre.
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1
+fh04-0001,Feed Health Book 1,cat-fh,,https://example.com/images/fh04-0001.jpg,11.99,https://example.com/books/fh04-0001,101,,Fiction
+fh04-0002,Feed Health Book 2,cat-fh,,https://example.com/images/fh04-0002.jpg
+fh04-0003,Feed Health Book 3,cat-fh,,https://example.com/images/fh04-0003.jpg,13.99,https://example.com/books/fh04-0003,103,,Fiction
+fh04-0004,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0004.jpg,14.99,https://example.com/books/fh04-0004,104,,Fiction
+fh04-0005,Feed Health Book 5,cat-fh,,https://example.com/images/fh04-0005.jpg,15.99,https://example.com/books/fh04-0005,105,,Fiction
+,Feed Health Book 6,cat-fh,,https://example.com/images/fh04-0006.jpg,16.99,https://example.com/books/fh04-0006,106,,Fiction
+fh04-0007,Feed Health Book 7,cat-fh,,https://example.com/images/fh04-0007.jpg,17.99,https://example.com/books/fh04-0007,107,,Fiction
+fh04-0008,Feed Health Book 8,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0008.jpg,18.99,https://example.com/books/fh04-0008,108,,Fiction
+fh04-0009,Feed Health Book 9,cat-fh,,https://example.com/images/fh04-0009.jpg,19.99,https://example.com/books/fh04-0009,109,,Fiction
+fh04-0010,"Feed Health Book 10,cat-fh,,https://example.com/images/fh04-0010.jpg,20.99,https://example.com/books/fh04-0010,110,,Fiction
+fh04-0011,Feed Health Book 11,cat-fh,,https://example.com/images/fh04-0011.jpg,21.99,https://example.com/books/fh04-0011,111,,Fiction
+fh04-0012,Feed Health Book 12,cat-fh,,https://example.com/images/fh04-0012.jpg
+fh04-0013,Feed Health Book 13,cat-fh,,https://example.com/images/fh04-0013.jpg,23.99,https://example.com/books/fh04-0013,113,,Fiction
+fh04-0014,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0014.jpg,24.99,https://example.com/books/fh04-0014,114,,Fiction
+fh04-0015,Feed Health Book 15,cat-fh,,https://example.com/images/fh04-0015.jpg,25.99,https://example.com/books/fh04-0015,115,,Fiction
+,Feed Health Book 16,cat-fh,,https://example.com/images/fh04-0016.jpg,26.99,https://example.com/books/fh04-0016,116,,Fiction
+fh04-0017,Feed Health Book 17,cat-fh,,https://example.com/images/fh04-0017.jpg,27.99,https://example.com/books/fh04-0017,117,,Fiction
+fh04-0018,Feed Health Book 18,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0018.jpg,28.99,https://example.com/books/fh04-0018,118,,Fiction
+fh04-0019,Feed Health Book 19,cat-fh,,https://example.com/images/fh04-0019.jpg,29.99,https://example.com/books/fh04-0019,119,,Fiction
+fh04-0020,"Feed Health Book 20,cat-fh,,https://example.com/images/fh04-0020.jpg,30.99,https://example.com/books/fh04-0020,120,,Fiction
+fh04-0021,Feed Health Book 21,cat-fh,,https://example.com/images/fh04-0021.jpg,31.99,https://example.com/books/fh04-0021,121,,Fiction
+fh04-0022,Feed Health Book 22,cat-fh,,https://example.com/images/fh04-0022.jpg
+fh04-0023,Feed Health Book 23,cat-fh,,https://example.com/images/fh04-0023.jpg,33.99,https://example.com/books/fh04-0023,123,,Fiction
+fh04-0024,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0024.jpg,34.99,https://example.com/books/fh04-0024,124,,Fiction
+fh04-0025,Feed Health Book 25,cat-fh,,https://example.com/images/fh04-0025.jpg,35.99,https://example.com/books/fh04-0025,125,,Fiction
+,Feed Health Book 26,cat-fh,,https://example.com/images/fh04-0026.jpg,36.99,https://example.com/books/fh04-0026,126,,Fiction
+fh04-0027,Feed Health Book 27,cat-fh,,https://example.com/images/fh04-0027.jpg,37.99,https://example.com/books/fh04-0027,127,,Fiction
+fh04-0028,Feed Health Book 28,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0028.jpg,38.99,https://example.com/books/fh04-0028,128,,Fiction
+fh04-0029,Feed Health Book 29,cat-fh,,https://example.com/images/fh04-0029.jpg,39.99,https://example.com/books/fh04-0029,129,,Fiction
+fh04-0030,"Feed Health Book 30,cat-fh,,https://example.com/images/fh04-0030.jpg,10.99,https://example.com/books/fh04-0030,130,,Fiction
+fh04-0031,Feed Health Book 31,cat-fh,,https://example.com/images/fh04-0031.jpg,11.99,https://example.com/books/fh04-0031,131,,Fiction
+fh04-0032,Feed Health Book 32,cat-fh,,https://example.com/images/fh04-0032.jpg
+fh04-0033,Feed Health Book 33,cat-fh,,https://example.com/images/fh04-0033.jpg,13.99,https://example.com/books/fh04-0033,133,,Fiction
+fh04-0034,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0034.jpg,14.99,https://example.com/books/fh04-0034,134,,Fiction
+fh04-0035,Feed Health Book 35,cat-fh,,https://example.com/images/fh04-0035.jpg,15.99,https://example.com/books/fh04-0035,135,,Fiction
+,Feed Health Book 36,cat-fh,,https://example.com/images/fh04-0036.jpg,16.99,https://example.com/books/fh04-0036,136,,Fiction
+fh04-0037,Feed Health Book 37,cat-fh,,https://example.com/images/fh04-0037.jpg,17.99,https://example.com/books/fh04-0037,137,,Fiction
+fh04-0038,Feed Health Book 38,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0038.jpg,18.99,https://example.com/books/fh04-0038,138,,Fiction
+fh04-0039,Feed Health Book 39,cat-fh,,https://example.com/images/fh04-0039.jpg,19.99,https://example.com/books/fh04-0039,139,,Fiction
+fh04-0040,"Feed Health Book 40,cat-fh,,https://example.com/images/fh04-0040.jpg,20.99,https://example.com/books/fh04-0040,140,,Fiction
+fh04-0041,Feed Health Book 41,cat-fh,,https://example.com/images/fh04-0041.jpg,21.99,https://example.com/books/fh04-0041,141,,Fiction
+fh04-0042,Feed Health Book 42,cat-fh,,https://example.com/images/fh04-0042.jpg
+fh04-0043,Feed Health Book 43,cat-fh,,https://example.com/images/fh04-0043.jpg,23.99,https://example.com/books/fh04-0043,143,,Fiction
+fh04-0044,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0044.jpg,24.99,https://example.com/books/fh04-0044,144,,Fiction
+fh04-0045,Feed Health Book 45,cat-fh,,https://example.com/images/fh04-0045.jpg,25.99,https://example.com/books/fh04-0045,145,,Fiction
+,Feed Health Book 46,cat-fh,,https://example.com/images/fh04-0046.jpg,26.99,https://example.com/books/fh04-0046,146,,Fiction
+fh04-0047,Feed Health Book 47,cat-fh,,https://example.com/images/fh04-0047.jpg,27.99,https://example.com/books/fh04-0047,147,,Fiction
+fh04-0048,Feed Health Book 48,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0048.jpg,28.99,https://example.com/books/fh04-0048,148,,Fiction
+fh04-0049,Feed Health Book 49,cat-fh,,https://example.com/images/fh04-0049.jpg,29.99,https://example.com/books/fh04-0049,149,,Fiction
+fh04-0050,"Feed Health Book 50,cat-fh,,https://example.com/images/fh04-0050.jpg,30.99,https://example.com/books/fh04-0050,150,,Fiction
+fh04-0051,Feed Health Book 51,cat-fh,,https://example.com/images/fh04-0051.jpg,31.99,https://example.com/books/fh04-0051,151,,Fiction
+fh04-0052,Feed Health Book 52,cat-fh,,https://example.com/images/fh04-0052.jpg
+fh04-0053,Feed Health Book 53,cat-fh,,https://example.com/images/fh04-0053.jpg,33.99,https://example.com/books/fh04-0053,153,,Fiction
+fh04-0054,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0054.jpg,34.99,https://example.com/books/fh04-0054,154,,Fiction
+fh04-0055,Feed Health Book 55,cat-fh,,https://example.com/images/fh04-0055.jpg,35.99,https://example.com/books/fh04-0055,155,,Fiction
+,Feed Health Book 56,cat-fh,,https://example.com/images/fh04-0056.jpg,36.99,https://example.com/books/fh04-0056,156,,Fiction
+fh04-0057,Feed Health Book 57,cat-fh,,https://example.com/images/fh04-0057.jpg,37.99,https://example.com/books/fh04-0057,157,,Fiction
+fh04-0058,Feed Health Book 58,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0058.jpg,38.99,https://example.com/books/fh04-0058,158,,Fiction
+fh04-0059,Feed Health Book 59,cat-fh,,https://example.com/images/fh04-0059.jpg,39.99,https://example.com/books/fh04-0059,159,,Fiction
+fh04-0060,"Feed Health Book 60,cat-fh,,https://example.com/images/fh04-0060.jpg,10.99,https://example.com/books/fh04-0060,160,,Fiction
+fh04-0061,Feed Health Book 61,cat-fh,,https://example.com/images/fh04-0061.jpg,11.99,https://example.com/books/fh04-0061,161,,Fiction
+fh04-0062,Feed Health Book 62,cat-fh,,https://example.com/images/fh04-0062.jpg
+fh04-0063,Feed Health Book 63,cat-fh,,https://example.com/images/fh04-0063.jpg,13.99,https://example.com/books/fh04-0063,163,,Fiction
+fh04-0064,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0064.jpg,14.99,https://example.com/books/fh04-0064,164,,Fiction
+fh04-0065,Feed Health Book 65,cat-fh,,https://example.com/images/fh04-0065.jpg,15.99,https://example.com/books/fh04-0065,165,,Fiction
+,Feed Health Book 66,cat-fh,,https://example.com/images/fh04-0066.jpg,16.99,https://example.com/books/fh04-0066,166,,Fiction
+fh04-0067,Feed Health Book 67,cat-fh,,https://example.com/images/fh04-0067.jpg,17.99,https://example.com/books/fh04-0067,167,,Fiction
+fh04-0068,Feed Health Book 68,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0068.jpg,18.99,https://example.com/books/fh04-0068,168,,Fiction
+fh04-0069,Feed Health Book 69,cat-fh,,https://example.com/images/fh04-0069.jpg,19.99,https://example.com/books/fh04-0069,169,,Fiction
+fh04-0070,"Feed Health Book 70,cat-fh,,https://example.com/images/fh04-0070.jpg,20.99,https://example.com/books/fh04-0070,170,,Fiction
+fh04-0071,Feed Health Book 71,cat-fh,,https://example.com/images/fh04-0071.jpg,21.99,https://example.com/books/fh04-0071,171,,Fiction
+fh04-0072,Feed Health Book 72,cat-fh,,https://example.com/images/fh04-0072.jpg
+fh04-0073,Feed Health Book 73,cat-fh,,https://example.com/images/fh04-0073.jpg,23.99,https://example.com/books/fh04-0073,173,,Fiction
+fh04-0074,Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very Long Title Very,cat-fh,,https://example.com/images/fh04-0074.jpg,24.99,https://example.com/books/fh04-0074,174,,Fiction
+fh04-0075,Feed Health Book 75,cat-fh,,https://example.com/images/fh04-0075.jpg,25.99,https://example.com/books/fh04-0075,175,,Fiction
+,Feed Health Book 76,cat-fh,,https://example.com/images/fh04-0076.jpg,26.99,https://example.com/books/fh04-0076,176,,Fiction
+fh04-0077,Feed Health Book 77,cat-fh,,https://example.com/images/fh04-0077.jpg,27.99,https://example.com/books/fh04-0077,177,,Fiction
+fh04-0078,Feed Health Book 78,cat-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,https://example.com/images/fh04-0078.jpg,28.99,https://example.com/books/fh04-0078,178,,Fiction
+fh04-0079,Feed Health Book 79,cat-fh,,https://example.com/images/fh04-0079.jpg,29.99,https://example.com/books/fh04-0079,179,,Fiction
+fh04-0080,"Feed Health Book 80,cat-fh,,https://example.com/images/fh04-0080.jpg,30.99,https://example.com/books/fh04-0080,180,,Fiction

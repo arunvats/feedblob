@@ -1,0 +1,15 @@
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSFeed Health test feed. entity.custom1 = genre.
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1
+,Feed Health Book 1,cat-fh,,https://example.com/images/fh05-0001.jpg,11.99,https://example.com/books/fh05-0001,101,,Fiction
+,Feed Health Book 2,cat-fh,,https://example.com/images/fh05-0002.jpg,12.99,https://example.com/books/fh05-0002,102,,Fiction
+,Feed Health Book 3,cat-fh,,https://example.com/images/fh05-0003.jpg,13.99,https://example.com/books/fh05-0003,103,,Fiction
+,Feed Health Book 4,cat-fh,,https://example.com/images/fh05-0004.jpg,14.99,https://example.com/books/fh05-0004,104,,Fiction
+,Feed Health Book 5,cat-fh,,https://example.com/images/fh05-0005.jpg,15.99,https://example.com/books/fh05-0005,105,,Fiction
+,Feed Health Book 6,cat-fh,,https://example.com/images/fh05-0006.jpg,16.99,https://example.com/books/fh05-0006,106,,Fiction
+,Feed Health Book 7,cat-fh,,https://example.com/images/fh05-0007.jpg,17.99,https://example.com/books/fh05-0007,107,,Fiction
+,Feed Health Book 8,cat-fh,,https://example.com/images/fh05-0008.jpg,18.99,https://example.com/books/fh05-0008,108,,Fiction
+,Feed Health Book 9,cat-fh,,https://example.com/images/fh05-0009.jpg,19.99,https://example.com/books/fh05-0009,109,,Fiction
+,Feed Health Book 10,cat-fh,,https://example.com/images/fh05-0010.jpg,20.99,https://example.com/books/fh05-0010,110,,Fiction

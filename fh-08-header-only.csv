@@ -1,0 +1,5 @@
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSFeed Health test feed. entity.custom1 = genre.
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1
